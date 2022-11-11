@@ -32,3 +32,4 @@ You would have to goto the prompted link and connect your ClearML with the WebAp
 
 Now that you have ClearML running and environment set up.
 
+You can follow the rest of the steps in the Codes\model_training.ipynb notebook.
